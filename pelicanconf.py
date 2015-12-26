@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Dylan'
 SITENAME = u"Dylan's Tech Blog"
-SITEURL = 'dylancramer.me'
+SITEURL = ''
 
 STATIC_PATHS = []
 
