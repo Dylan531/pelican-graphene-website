@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Dylan'
 SITENAME = u"Dylan's Tech Blog"
-SITEURL = ''
+SITEURL = 'dylancramer.me'
 
 STATIC_PATHS = []
 
@@ -35,7 +35,7 @@ MEDIA_LINKS = (('steam', 'http://steamcommunity.com/id/Dylan531'),
 SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
 
-THEME = '/home/dylan/pelican-graphene-ui'
+THEME = '/home/website/pelican-graphene-ui'
 DEFAULT_PAGINATION = 3
 
 # Uncomment following line if you want document-relative URLs when developing
