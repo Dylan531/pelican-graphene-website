@@ -16,7 +16,7 @@ DEFAULT_LANG = u'en'
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
-DISQUS_SITENAME = 'dylantechblog'
+DISQUS_SITENAME = 'https://dylantechblog.disqus.com'
 
 # Blogroll
 LINKS =  (('Pelican', 'http://getpelican.com/'),
