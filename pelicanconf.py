@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Dylan'
 SITENAME = u"Dylan's Tech Blog"
-SITEURL = ''
+SITEURL = 'http://dylancramer.me'
 
 STATIC_PATHS = []
 
@@ -16,8 +16,7 @@ DEFAULT_LANG = u'en'
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
-DISQUS_SITENAME = 'https://dylantechblog.disqus.com'
-
+DISQUS_SITENAME = u'dylantechblog'
 # Blogroll
 LINKS =  (('Pelican', 'http://getpelican.com/'),
           ('Python.org', 'http://python.org/'),

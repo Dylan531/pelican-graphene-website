@@ -28,15 +28,26 @@
 }
 
 /* CLASSES FOR DISPLAYING CONTENT */
-.content, .centerarticle{
+.content, .centerarticle {
 	border-radius: 4px;
 	margin: 35px;
-    padding-left: 20px;
-    background-color: #D1E6E7;
-    display: block;
-    width: 700px;
-    text-align: left;
-    padding: 10px;
+	padding-left: 20px;
+	background-color: #D1E6E7;
+	display: block;
+	width: 700px;
+	text-align: left;
+	padding: 10px;
+}
+.centerarticle h1 {
+	border-bottom: 1px solid black;
+	margin: 0;
+	padding-bottom: 5px;
+}
+.content h1 {
+	border-bottom: 1px solid black;
+	margin: 0;
+	padding-bottom: 5px;
+	font-style: italic;
 }
 .archive, .tags {
 	text-align: center;
@@ -70,12 +81,6 @@
 }
 .content p {
 	margin-top: 3px;
-}
-.content h1 {
-    border-bottom: 1px solid black;
-    font-style: italic;
-    margin: 0;
-    padding-bottom: 5px;
 }
 
 
