@@ -1,1 +1,8 @@
 output
+fabfile.py
+fabfile.pyc
+Makefile
+pelicanconf.py
+pelicanconf.pyc
+publishconf.py
+output/
