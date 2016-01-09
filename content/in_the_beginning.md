@@ -11,7 +11,7 @@ with what I can only assume is black magic to create static web pages simply fro
 of either Markdown or ReStructured Text Format. There are undoubtedly other formats that could be used, but 
 these are the only two formats that I'm familiar with. I'm also using Pygmants to color blocks of code that
 I'll be using in my blog posts. Here's an example:
-
+	:::python
 	for i in range(20):
 		print "THIS IS %s OF 20 IN A TEST LIST." % i
 
