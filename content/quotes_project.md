@@ -10,6 +10,7 @@ most favorite quotes onto, the page functions much like a Google Doc, where you 
 yourself. So what I end up with is a text file with over 500 lines of various quotes and data that cannot be properly formatted. The
 first step was developing something to sort through out of it, of which I created this mess:
 
+	:::python
 	import re
 	import fileinput
 
