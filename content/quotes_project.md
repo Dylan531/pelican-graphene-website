@@ -53,7 +53,7 @@ Output: ['"I\'m not Hitler, YOU\'RE HITLER~"', 'Colt,', '3/19/2015']
 
 There are a lot of loose cases that get through, and I'm not too sure how to fix them, which is part of the reason I'm writing this blog, hopefully to brainstorm some ideas. Here something that should get through, but does not, because of a simple quirk:
 
-Input: "i wanna blow a non-euclidean cock and have it be so big it gives my mouth stretch marks~", Travis, 3/19/2015
+Input: "Quote Here",, Name, 3/19/2015
 
 Output: None
 
