@@ -5,7 +5,7 @@ Category: Python Development
 Slug: quotes-project-pagegen
 Authors: Dylan
 
-While I will certainly update this article soon, I wanted to put out the code used to parse through the quotes themselves, and make them into a web page.
+While I will certainly update this article soon, I wanted to put out the code used to parse through the quotes themselves, and make them into a web page. I also need to fix code being shown incorrectly by Pagination on the home page of this blog, it's incredibly broken.
 
 	:::python
 	import storage
