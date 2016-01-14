@@ -5,6 +5,8 @@ Category: Python Development
 Slug: quotes-project-pagegen
 Authors: Dylan
 
+While I will certainly update this article soon, I wanted to put out the code used to parse through the quotes themselves, and make them into a web page.
+
 	:::python
 	import storage
 	import random
