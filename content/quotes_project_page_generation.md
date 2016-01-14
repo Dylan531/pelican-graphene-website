@@ -31,8 +31,8 @@ While I will certainly update this article soon, I wanted to put out the code us
 
 	body = """<html>
 		<head>
-			<link rel="stylesheet" type="text/css" href="http://66.228.253.50:8000/quote.css">
-			<link rel="shortcut icon" href="http://66.228.253.50:8000/favicon.ico">
+			<link rel="stylesheet" type="text/css" href="quote.css">
+			<link rel="shortcut icon" href="favicon.ico">
 			<link href="http://fonts.googleapis.com/css?family=Poiret One"; rel="stylesheet"; type="text/css";/>
 			<style>
 				h1 {
@@ -45,7 +45,7 @@ While I will certainly update this article soon, I wanted to put out the code us
 		</head>
 		<body>
 			<div class="refresh">
-				<a href="/cgi-bin/script.py">New Quote~</a>
+				<a href="/cgi-bin/quotes.py">New Quote~</a>
 			</div>
 			<div class="whole">
 				<h1 class="quote">%s</h1>
